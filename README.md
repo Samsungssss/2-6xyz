@@ -1,6 +1,6 @@
-# Astroship - Astro SAAS Starter Website Template
+# Kaelix - Modern Digital Platform & Web Architecture
 
-Astroship is a free starter astro website template for saas, startups, marketing websites, landing pages & blogs. Built with Astro & TailwindCSS.
+Kaelix is a high-performance modern web platform for SaaS, startups, marketing websites, landing pages & blogs. Built with Astro & Tailwind CSS.
 
 This Free Template is sponsored by [Web3Templates](https://web3templates.com)
 
